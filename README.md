@@ -1,3 +1,14 @@
+## 使用 react-redux 做出一个 couter 应用：
+
+页面上有一个数字 n 和几个按钮
+
+- 点击 +1 之后 n 就会加 1
+- 点击 +2 之后 n 就会加 2
+- 判断n是否为单数 再加1
+- 延迟 加1
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
